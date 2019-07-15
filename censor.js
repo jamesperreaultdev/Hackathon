@@ -1,4 +1,5 @@
-var naughty = ['damn','shit','fuck','goddamnit','ass','dick','prick','slut','whore','bellend','cunt','nigg']; 
+var naughty = ['']; 
+//any strings can be added to that array to censor out. below are some examples. it is not case senstive and any unicode works,
 // var naughty = ['hello','how are you','hi','whats up','hey']
 //random: var naughty = ['small','dog', 'Chip Skylark,''Rwanada,'tango','metallurgy']
 var counter = 0;
