@@ -1,0 +1,52 @@
+
+  h1{
+      width:auto;
+      text-align: center;  
+
+  }         
+  body{
+      min-width:300px;
+  }     
+
+img{
+    width:80px;
+    align-content: center;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+  #clickactivity{
+      background-color:hotpink;
+      margin:12px;
+      height:25px;
+text-align: center; 
+color:white;
+border-radius: 15px;
+border-width: 1px;
+border-style: solid;
+border-color:black;
+}
+p{
+  font-size:18px;
+}
+
+  #clickactivity:hover{
+    background-color:pink;
+    margin:12px;
+    transition: 1s;
+  }
+  .open-button {
+    background-color: #555;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+  }
+  button{
+
+  }
